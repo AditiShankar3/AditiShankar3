@@ -2,7 +2,7 @@
 
 # Hi, I'm Aditi Shankar
 
-**Cybersecurity • Blockchain • ML • Systems Programming • Distributed Systems**
+**Cybersecurity • Blockchain • ML • Systems Programming**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AditiShankar3-181717?logo=github)](https://github.com/AditiShankar3)
 
@@ -11,8 +11,6 @@
 ## About
 Computer Science undergraduate with strong interests in Cybersecurity, Blockchain, ML and system programming.
 
-🌍 Based in Bengaluru, India <br>
-✉️ Reach me at [aditishankar394@gmail.com](mailto:aditishankar394@gmail.com) <br>
 👯 Open to collaborating on fun projects <br>
 🌱 Learning something interesting everyday <br>
 
